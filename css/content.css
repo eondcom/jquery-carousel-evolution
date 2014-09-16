@@ -66,8 +66,8 @@ select
 	margin :0 ; 
 	padding-top :20px; 
 	padding-bottom :15px; 
-	/*background-color:#E5EBF0;*/
-	background-color :Silver ;
+	/*background-color:#E5EBF0; Silver */
+	background-color : transparent;
 }
 
 .clear {
